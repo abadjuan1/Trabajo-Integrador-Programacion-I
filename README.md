@@ -12,3 +12,4 @@ Los objetivo de este proyecto son:
  - Hacer un programa en Python que arme un árbol binario de búsqueda con una lista de datos que ingresa el usuario.
  - Practicar la representación de árboles usando listas anidadas 
 
+Enlace al video: 
